@@ -1,0 +1,1 @@
+bugiWOL.exe -create
